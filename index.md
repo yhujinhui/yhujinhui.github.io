@@ -1,5 +1,28 @@
 ## Welcome to GitHub Pages
 
+```java
+System.out.println("Hello World");
+```
+```html
+<div>Hello </div>
+```
+
+* 목록1
+* 목록2
+
+- 목록1
+- 목록2
+
+| 학번 | 이름 |
+| ----| --- |
+| 2207 | 유진희 |
+
+[내 홈페이지로 가기](https://yhujinhui.github.io)
+
+![구글로 가기](https://yhujinhui.github.io)
+
+![내 포스터](https://yhujinhui.github.io)
+
 You can use the [editor on GitHub](https://github.com/yhujinhui/yhujinhui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
