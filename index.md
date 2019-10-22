@@ -21,8 +21,7 @@ System.out.println("Hello World");
 
 ![구글로 가기](https://yhujinhui.github.io)
 
-![내 포스터](https://yhujinhui.github.io)
-
+![내 포스터](OOO.jpg)
 
 You can use the [editor on GitHub](https://github.com/yhujinhui/yhujinhui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
